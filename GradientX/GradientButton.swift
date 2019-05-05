@@ -13,7 +13,7 @@ import UIKit
     
     @IBInspectable open var direction: Int {
         set {
-            new(direction: Direction(rawValue: newValue) ?? .vertical)
+            new(direction: GradientX.Direction(rawValue: newValue) ?? .vertical)
         }
         get {
             return _dir.rawValue
@@ -22,7 +22,7 @@ import UIKit
     
     
     
-    private lazy var _dir: Direction = .vertical
+    private lazy var _dir: GradientX.Direction = .vertical
     
     
     
@@ -96,7 +96,7 @@ extension GradientButton: Changing {
     /// 重置渐变方向
     ///
     /// - Parameter direction: 渐变方向
-    public func new(direction: Direction) {
+    public func new(direction: GradientX.Direction) {
         if _dir == direction { return }
         _dir = direction
         setNeedsDisplay()

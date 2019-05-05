@@ -72,6 +72,6 @@ public protocol Changing {
     /// 重构渐变方向
     ///
     /// - Parameter direction: 渐变方向
-    func new(direction: Direction)
+    func new(direction: GradientX.Direction)
     
 }
