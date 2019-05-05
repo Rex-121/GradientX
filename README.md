@@ -1,11 +1,8 @@
-# Gradient
+# GradientX
 
-[![Version](https://img.shields.io/cocoapods/v/Gradient.svg?style=flat)](https://cocoapods.org/pods/Gradient)
-[![Platform](https://img.shields.io/cocoapods/p/Gradient.svg?style=flat)](https://cocoapods.org/pods/Gradient)
+[![Version](https://img.shields.io/cocoapods/v/Gradient.svg?style=flat)](https://cocoapods.org/pods/GradientX)
+[![Platform](https://img.shields.io/cocoapods/p/Gradient.svg?style=flat)](https://cocoapods.org/pods/GradientX)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
 ```ruby
@@ -18,7 +15,7 @@ Gradient is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Gradient'
+pod 'GradientX'
 ```
 
 

@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Gradient'
+  s.name             = 'GradientX'
   s.version          = '0.1.0'
   s.summary          = 'Gradient Label & Gradient Button'
 
