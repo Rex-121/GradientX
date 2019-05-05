@@ -1,0 +1,22 @@
+{
+  "name": "Gradient",
+  "version": "0.1.0",
+  "summary": "A short description of Gradient.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/daisylovly@outlook.com/Gradient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daisylovly@outlook.com": "rex_wzc@163.com"
+  },
+  "source": {
+    "git": "https://github.com/daisylovly@outlook.com/Gradient.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Gradient/**/*"
+}

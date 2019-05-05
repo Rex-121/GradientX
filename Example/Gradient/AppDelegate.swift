@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Gradient
 //
-//  Created by daisylovly@outlook.com on 05/05/2019.
-//  Copyright (c) 2019 daisylovly@outlook.com. All rights reserved.
+//  Created by Tyrant on 05/05/2019.
+//  Copyright (c) 2019 Tyrant. All rights reserved.
 //
 
 import UIKit
