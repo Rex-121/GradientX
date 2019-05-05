@@ -1,18 +1,19 @@
 {
   "name": "Gradient",
   "version": "0.1.0",
-  "summary": "A short description of Gradient.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/daisylovly@outlook.com/Gradient",
+  "summary": "Gradient Label & Gradient Button",
+  "description": "Make a gradient label or button simple",
+  "homepage": "https://github.com/Rex-121/Gradient",
+  "screenshots": "https://github.com/Rex-121/Gradient/screenshots_1",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "daisylovly@outlook.com": "rex_wzc@163.com"
+    "Tyrant": "rex_wzc@163.com"
   },
   "source": {
-    "git": "https://github.com/daisylovly@outlook.com/Gradient.git",
+    "git": "https://github.com/Rex-121/Gradient.git",
     "tag": "0.1.0"
   },
   "platforms": {

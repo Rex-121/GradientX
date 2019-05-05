@@ -22,6 +22,42 @@ pod 'Gradient'
 ```
 
 
+
+## Usage
+
+
+
+```swift
+//MARK: - Label
+let label = GradientLabel()
+
+///更改颜色
+label.new(colors: [UIColor.red.cgColor, UIColor.black.cgColor, UIColor.white.cgColor])
+
+/// 更改方向
+label.new(direction: .vertical)
+
+
+//MARK: - Button
+let button = GradientButton()
+
+///更改颜色
+button.new(colors: [UIColor.red.cgColor, UIColor.black.cgColor, UIColor.white.cgColor])
+
+/// 更改方向
+button.new(direction: .vertical)
+```
+
+
+
+
+
+#### Storyboard
+
+![Usage_1](/Users/ray/Gradient/usage_1.jpg)
+
+
+
 ## ScreenShots
 
 ![ScreenShots](screenshots_1.jpg)
@@ -30,6 +66,4 @@ pod 'Gradient'
 
 Tyrant, rex_wzc@163.com
 
-## License
 
-Gradient is available under the MIT license. See the LICENSE file for more info.
