@@ -22,7 +22,7 @@ Make a gradient label or button simple
                        DESC
 
   s.homepage         = 'https://github.com/Rex-121/Gradient'
-  s.screenshots     = 'https://github.com/Rex-121/Gradient/screenshots_1'
+  s.screenshots     = 'https://github.com/Rex-121/Gradient/blob/master/screenshots_1.jpg'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Tyrant' => 'rex_wzc@163.com' }
   s.source           = { :git => 'https://github.com/Rex-121/Gradient.git', :tag => s.version.to_s }
@@ -31,5 +31,7 @@ Make a gradient label or button simple
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'Gradient/**/*'
+  
+  s.swift_version = '4.2', '5.0'
 
 end

@@ -54,7 +54,7 @@ button.new(direction: .vertical)
 
 #### Storyboard
 
-![Usage_1](/Users/ray/Gradient/usage_1.jpg)
+![Usage_1](usage_1.jpg)
 
 
 
