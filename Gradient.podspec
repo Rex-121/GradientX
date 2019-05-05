@@ -32,6 +32,6 @@ Make a gradient label or button simple
 
   s.source_files = 'Gradient/**/*'
   
-  s.swift_version = '4.2', '5.0'
+  s.swift_version = '4.2'
 
 end
