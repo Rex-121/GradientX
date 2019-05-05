@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Gradient_Example' do
+  pod 'Gradient', :path => '../'
+
+  target 'Gradient_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
