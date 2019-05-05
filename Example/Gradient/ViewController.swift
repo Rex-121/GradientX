@@ -8,7 +8,7 @@
 
 import UIKit
 
-import Gradient
+import GradientX
 
 class ViewController: UIViewController {
 

@@ -1,5 +1,5 @@
 import XCTest
-import Gradient
+import GradientX
 
 class Tests: XCTestCase {
     

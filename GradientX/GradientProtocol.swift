@@ -5,7 +5,7 @@
 //  Created by Tyrant on 2019/5/5.
 //
 
-import Foundation
+import UIKit
 
 
 /// 渐变方向
@@ -72,6 +72,6 @@ public protocol Changing {
     /// 重构渐变方向
     ///
     /// - Parameter direction: 渐变方向
-    func new(direction: Gradient.Direction)
+    func new(direction: Direction)
     
 }
