@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double GradientVersionNumber;
-FOUNDATION_EXPORT const unsigned char GradientVersionString[];
+FOUNDATION_EXPORT double GradientXVersionNumber;
+FOUNDATION_EXPORT const unsigned char GradientXVersionString[];
 

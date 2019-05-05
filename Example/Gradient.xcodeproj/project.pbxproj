@@ -43,7 +43,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		60CCF33652367A03B23A858C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6F4A2AC741F66A41E99D736B /* Pods_Gradient_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Gradient_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6FCD4FFE1F42B74F6610E554 /* Gradient.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Gradient.podspec; path = ../Gradient.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6FCD4FFE1F42B74F6610E554 /* GradientX.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = GradientX.podspec; path = ../GradientX.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D97E0C6938AC20899D00F337 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		F00EEE0E18227A37839F1A8D /* Pods-Gradient_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gradient_Tests.debug.xcconfig"; path = "Target Support Files/Pods-Gradient_Tests/Pods-Gradient_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FB22FC8B20CC0A89EDD2F2A6 /* Pods-Gradient_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gradient_Example.debug.xcconfig"; path = "Target Support Files/Pods-Gradient_Example/Pods-Gradient_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -132,7 +132,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				6FCD4FFE1F42B74F6610E554 /* Gradient.podspec */,
+				6FCD4FFE1F42B74F6610E554 /* GradientX.podspec */,
 				60CCF33652367A03B23A858C /* README.md */,
 				D97E0C6938AC20899D00F337 /* LICENSE */,
 			);
@@ -271,13 +271,13 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Gradient_Example/Pods-Gradient_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Gradient/Gradient.framework",
+				"${BUILT_PRODUCTS_DIR}/GradientX/GradientX.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Gradient.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GradientX.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

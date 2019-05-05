@@ -1,0 +1,6 @@
+framework module GradientX {
+  umbrella header "GradientX-umbrella.h"
+
+  export *
+  module * { export * }
+}

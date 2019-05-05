@@ -1,16 +1,16 @@
 PODS:
-  - Gradient (0.1.0)
+  - GradientX (0.1.0)
 
 DEPENDENCIES:
-  - Gradient (from `../`)
+  - GradientX (from `../`)
 
 EXTERNAL SOURCES:
-  Gradient:
+  GradientX:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Gradient: c153c6ba8b4a9c0141e94d5cffb1251cc6ed5108
+  GradientX: 8f8d7e33642f001e5aa4a53f76642c22497e836b
 
-PODFILE CHECKSUM: 9b38d81aeb57926122141b48e05dadab8f0d020b
+PODFILE CHECKSUM: ba8efea4750dd1a2cfe7ae54d2cc5ff244d8b275
 
 COCOAPODS: 1.6.1

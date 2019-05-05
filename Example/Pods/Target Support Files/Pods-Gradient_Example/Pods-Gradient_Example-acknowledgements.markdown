@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## Gradient
+## GradientX
 
 Copyright (c) 2019 Tyrant <rex_wzc@163.com>
 

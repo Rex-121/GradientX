@@ -1,6 +1,0 @@
-framework module Gradient {
-  umbrella header "Gradient-umbrella.h"
-
-  export *
-  module * { export * }
-}

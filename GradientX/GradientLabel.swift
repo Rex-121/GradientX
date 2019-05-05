@@ -87,7 +87,7 @@ import UIKit
             drawBg(colors, rect)
         case .text:
             /// 重构渐变层的大小和位置，渐变方向
-            remake(gradientLayer, by: rect).mask = self.layer
+            remake(gradientLayer, by: rect).mask = copyLabel().layer
         }
         
     }
